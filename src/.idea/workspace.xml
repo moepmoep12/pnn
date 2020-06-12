@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5bdfc39-df12-47c1-8b97-21b96649f58c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c24B5rykvQgQhfGQB6lH8PxuuS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5bdfc39-df12-47c1-8b97-21b96649f58c" name="Default Changelist" comment="" />
+      <created>1589713215699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589713215699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3325" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1589716100706">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3325" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1589716100706" />
+    <state x="3021" y="163" key="SettingsEditor" timestamp="1589713908284">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3021" y="163" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1589713908284" />
+    <state x="3183" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589714488492">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3183" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1589714488492" />
+  </component>
+</project>
